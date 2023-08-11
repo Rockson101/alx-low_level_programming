@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - A program that prints a line with printf function
- * Retun: It should output 0
+ * main - Entry point of the program
+ *
+ * Retun: Always 0 (Success)
  */
 int main(void)
 {
