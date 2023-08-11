@@ -1,6 +1,6 @@
-#include <stdio.hr>
+#include <stdio.h>
 /**
- * main - I am writing a progam to print a line that has function puts
+ * main - This program prints puts function
  * Return: 0
  */
 int main(void)
